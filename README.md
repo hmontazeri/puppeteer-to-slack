@@ -2,7 +2,7 @@
 
 As promised here the repo to the youtube tutorial I created.
 
-[![YouTube Tutorial](https://res.cloudinary.com/practicaldev/image/fetch/s--q7SioezZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/nva44zi1qhg4sf2m5ugn.jpg)](https://www.youtube.com/watch?v=u26dLmg88Ok "YouTube Tutorial")
+[![](http://img.youtube.com/vi/u26dLmg88Ok/0.jpg)](http://www.youtube.com/watch?v=u26dLmg88Ok "YouTube Tutorial")
 
 [Youtube](https://www.youtube.com/watch?v=u26dLmg88Ok)
 
