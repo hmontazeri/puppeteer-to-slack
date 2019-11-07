@@ -31,8 +31,8 @@ const { Parser } = require('json2csv');
     // sort the result asc
     cleanedData.sort((a, b) => {
         return (
-          parseInt(a.price.replace("$", "")) -
-          parseInt(b.price.replace("$", ""))
+          parseInt(a.price.replace('$', '')) -
+          parseInt(b.price.replace('$', ''))
         );
       });
     
